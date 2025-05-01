@@ -1,1 +1,2 @@
-this is my computer vision image classification using tensorflow with callback 
+This is my computer vision image classifier using tensorflow with callback 
+
